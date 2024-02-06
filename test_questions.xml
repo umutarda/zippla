@@ -1,0 +1,14 @@
+<?xml version = "1.0" encoding="UTF-8"?>
+<questions optionCount="4">
+
+    <question>
+        <description type="text">
+            Bu bir testtir
+        </description>
+        <option>A şıkkı</option>
+        <option>B şıkkı</option>
+        <option value="true">C şıkkı</option>
+         <option>D şıkkı</option>
+    </question>
+    
+</questions>
