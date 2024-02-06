@@ -1,5 +1,6 @@
 This is codebase for game called "Zıppla".
-It has both split-screen multiplayer and singleplayer mode.
+Character controller code is excluded since it is based on paid asset.
+It has both 2-player and singleplayer mode.
 
 Video:
 
